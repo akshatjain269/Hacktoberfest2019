@@ -6,7 +6,11 @@
 - Bio: 📱 Android Developer . 💻 Open Source Contributor . 📝Writer . 🎤 Speaker . 👶 Father 
 - Github: https://github.com/wajahatkarim3
 ***
-
+### Akshat Jain
+- Photo: https://avatars1.githubusercontent.com/u/3306366?s=460&v=4
+-Location : Ajmer, India
+-Bio: Java Developer , Web developer
+***
 ### Tsung-Han Ho
 - Photo: 
 - Location: Taipei, Taiwan
